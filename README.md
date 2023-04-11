@@ -68,13 +68,14 @@ Once the VM has been deployed and you confirmed it is in the problematic state p
 [def2]: https://github.com/Azure/ALAR
 
   </details>
-
+  
   ## Lab 2: Fix VM noboot issue caused by missing hv_storvsc of LIS driver in Initrd.
   
-  *On this Lab the **initramfs file* 
-  *bla*
-  *bla*
-  *bla*
+  *On this Lab the *hv_storvsc* driver has been removed from the Initrd configuration.*
+ 
+  *Your task is to set a Nested environment using one of the possible Solution Methods provided below in order to add the missing driver into the Initrd config file.*
+
+  *Once you've added the missing driver into the Initrd configuration file, make the necessary configuration changes to ensure the VM boots up properly.*
   
   ### Symptom
 
@@ -82,7 +83,7 @@ Once the VM has been deployed and you confirmed it is in the problematic state p
 
   ### How to fix it? 
 
-Deploy the RHEL 7.9 Broken VM using the link below: 
+Deploy the *RHEL 7.2 Gen 1 without LVM* Broken VM using the link below: 
 
   [![Click to deploy](https://user-images.githubusercontent.com/129801457/229645043-e2349c38-7efd-4336-83c4-dab6897f9a7c.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkaalvara%2Finitramfs%2Fmain%2Fdeploymenttemplatekaalvara.json%0A)
 
