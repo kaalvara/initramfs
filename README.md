@@ -78,7 +78,7 @@ Once the VM has been deployed and you confirmed it is in the problematic state p
   
   ### Symptom
 
-![initramfs file corrupted](https://github.com/kaalvara/initramfs/blob/main/GitHub%20-%20initramfs%20-%20error.png)
+![initramfs file corrupted](https://github.com/kaalvara/initramfs/blob/main/GutHub%20-%20initramfs%20-%20lab%202%20error.png)
 
   ### How to fix it? 
 
