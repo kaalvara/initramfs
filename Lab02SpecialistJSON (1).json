@@ -417,7 +417,7 @@
         "protectedSettings": {
         "commandToExecute": "[concat('sudo sh hyperv_break.sh')]",
         "fileUris": [
-        "https://raw.githubusercontent.com/ValeriaRosalesC/Lab02LinuxSpecialist/main/hyperv_break.sh"
+        "https://raw.githubusercontent.com/kaalvara/initramfs/main/hyperv_break.sh?token=GHSAT0AAAAAACA6XB7CYTNSN3SO4KQQJIEQZB7A2IA"
         ]
         }
       }
