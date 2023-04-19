@@ -85,7 +85,7 @@ Once the VM has been deployed and you confirmed it is in the problematic state p
 
 Deploy the *RHEL 7.2 Gen 1 without LVM* Broken VM using the link below: 
 
-  [![Click to deploy](https://user-images.githubusercontent.com/129801457/229645043-e2349c38-7efd-4336-83c4-dab6897f9a7c.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkaalvara%2Finitramfs%2Fmain%2FLab02SpecialistJSON%2520%281%29.json%3F%3DGHSAT0AAAAAACA6XB7DYE5DDNWUHBH3FS7UZB7A5DA)
+  [![Click to deploy](https://user-images.githubusercontent.com/129801457/229645043-e2349c38-7efd-4336-83c4-dab6897f9a7c.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkaalvara%2Finitramfs%2Fmain%2FLab02SpecialistJSON.json)
 
 Once the VM has been deployed and you confirmed it is in the problematic state please attach the problematic OS Disk copy to a troubleshooting VM created using your preferred method:
  
