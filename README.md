@@ -73,7 +73,7 @@ Once the VM has been deployed and you confirmed it is in the problematic state p
   
   *On this Lab the *hv_storvsc* driver has been removed from the Initrd configuration.*
  
-  *Your task is to set a Nested environment using one of the possible Solution Methods provided below in order to add the missing driver into the Initrd config file.*
+  *Your task is to set a Nested environment using one of the possible Solution Methods provided below in order to add the missing driver into the Initrd configuration file.*
 
   *Once you've added the missing driver into the Initrd configuration file, make the necessary configuration changes to ensure the VM boots up properly.*
   
