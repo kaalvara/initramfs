@@ -417,7 +417,7 @@
         "protectedSettings": {
         "commandToExecute": "[concat('sudo sh hyperv_breaklab03.sh')]",
         "fileUris": [
-        "https://raw.githubusercontent.com/ValeriaRosalesC/Lab03LinuxSpecialist/main/hyperv_breaklab03.sh"
+        "https://raw.githubusercontent.com/kaalvara/initramfs/main/hyperv_breaklab03.sh"
         ]
         }
       }
